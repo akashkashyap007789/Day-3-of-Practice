@@ -1,4 +1,4 @@
-Day 3 — One-Hot Encoding (Pandas & Scikit-Learn)
+#Day 3 — One-Hot Encoding (Pandas & Scikit-Learn)
 
 This project focuses on transforming categorical variables into machine-readable numerical formats using multiple One-Hot Encoding techniques. The goal is to understand how encoding works, why it's needed, and how different methods affect data preparation for machine learning models.
 
